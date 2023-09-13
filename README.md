@@ -1,2 +1,1 @@
-# Keyboard-simulator-
 # keyboard-simulator
